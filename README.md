@@ -1,2 +1,2 @@
-# placeholder-images
- 
+# Placeholders
+Generate placeholder images.
